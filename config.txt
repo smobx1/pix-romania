@@ -1,0 +1,16 @@
+{"c2dictionary":true, "data":{
+	"facebookPage":"http://www.facebook.com/myFacebookPage",
+	"twitterPage":"http://www.twitter.com/myTwitterPage",
+	"googlePage":"http://www.google.com/myGooglePage",
+	"facebookShareLink":"http://www.mygames.com",
+	"rateUs":"market://details?id=com.company.appname&write_review=true",
+	"moreGames":"http://www.moregames.com",
+	"shareMessage":"I just passed level $level of PictureQuiz. Check it out mygames.com",
+	"label_quit":"Are you sure you want to quit ?",
+	"label_reset":"Are you sure you want to reset the game ?",
+	"label_nocoins":"You don't have enough coins !",
+	"label_reveal":"Revealing a letter will cost you 4 coins, continue?",
+	"label_remove":"Removing a letter will cost you 2 coins, continue?",
+	"label_end":"Congratulation ! you have successfully completed all the levels !",
+	"alphabet":"a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z"
+}}
